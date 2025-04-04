@@ -1,1 +1,1 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whzcc&theme=dracula&custom_title=whzc's%20Contribution%20Graph%20(He%20Did%20Nothing)&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whzcc&theme=react-dark&custom_title=whzc's%20Contribution%20Graph%20(he%20contributes%20rubbish)&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
